@@ -1,2 +1,2 @@
 # newsbull-vendor
-Newsbull composer vendor
+Composer ile kurulum yapamamanız durumunda "vendor" dizinini newsbull ana dizinine kopyalayınız.
